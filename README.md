@@ -1,2 +1,2 @@
 # Resume-website
-this repo contain my portfolio website as i leaning it
+this repo contain my portfolio website as i learning it
